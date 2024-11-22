@@ -116,8 +116,8 @@ main p {
 
 .legumes_nutri{
     padding: 15px;
-    width: 400px;
-    height: 300px;
+    width: 320px;
+    height: 250px;
     object-fit: cover;
     display: block;
     margin: auto;
@@ -125,8 +125,8 @@ main p {
 
 .foto-gigante{
     padding: 15px;
-    width: 400px;
-    height: 300px;
+    width: 320px;
+    height: 250px;
     object-fit: cover;
     display: block;
     margin: auto;
@@ -134,8 +134,8 @@ main p {
 
 .pedro-nutri{
     padding: 15px;
-    width: 400px;
-    height: 300px;
+    width: 320px;
+    height: 250px;
     object-fit: cover;
     display: block;
     margin: auto;
@@ -162,7 +162,7 @@ aside{
 aside > ul{
     list-style-type: '\2714\00A0\00A0';
     list-style-position: inside;
-    columns: 3;
+    columns: 2;
 }
 
 aside > h1{
